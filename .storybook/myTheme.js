@@ -32,6 +32,6 @@ export default create({
   inputBorderRadius: 4,
 
   brandTitle: "Dom's storybook",
-  brandUrl: 'https://example.com',
-  brandImage: 'https://placehold.it/350x150',
+  brandUrl: 'http://dominiquepro.com',
+  brandImage: 'http://dominiquepro.com/favicon.ico',
 });
